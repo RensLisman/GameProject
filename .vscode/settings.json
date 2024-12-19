@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Door-de-school-lopen.sln"
+    "dotnet.defaultSolution": "GameProject.sln"
 }
